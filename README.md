@@ -1,10 +1,10 @@
-Tottenham Hotspur Junior Data Engineer Assessment
+Tottenham Hotspur Junior Data Project
 Author:Samuel Osei  
 Date:October 2025  
 
 
 ## Overview
-This project completes the Tottenham Hotspur Junior Data Engineer assessment using Hudl StatsBomb data.  
+This project completes the Tottenham Hotspur Junior Data Project using Hudl StatsBomb data.  
 It includes a Python script (`spurs.py`) and SQL queries (`queries.sql`) that analyse match data and extract useful insights.
 
 I focused on writing simple and clear code to show my understanding of the data and how I approach problem-solving.
@@ -61,7 +61,7 @@ QUERIES.SQL EXPECTED OUTPUT
 
 ## Challenges & What I Learned
 
-This assessment was a great learning experience and very rewarding, however, also quite challenging in places.  
+This project was a great learning experience and very rewarding, however, also quite challenging in places.  
 At first, I found it hard to understand the JSON file structure because the lineups and events files were formatted differently.  
 It took some time to figure out how to extract the right values and match them together.
 
@@ -80,7 +80,7 @@ Through a lot trial and error, some help from YouTube videos, websites and testi
  
 
 
-## If I Had More Time 
+## What I Could Add  
 - I’d export results (like pass counts and player times) into CSVs for easier analysis.  
 - I’d include simple visualisations such as bar charts to present the insights more clearly.  
 - I’d learn more functions to improve accuracy and efficiency in future projects.
@@ -92,3 +92,4 @@ Through a lot trial and error, some help from YouTube videos, websites and testi
 1. Place all data files inside a folder named `data/`.  
 2. Run the Python script:
    python spurs.py
+
